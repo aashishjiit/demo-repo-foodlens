@@ -1,0 +1,297 @@
+🧠 OVERALL STRATEGY (IMPORTANT)
+
+You are NOT trying to master coding.
+You are learning just enough to:
+
+Use AI models
+
+Build a working website
+
+Explain your thinking clearly
+
+That’s what judges want.
+
+
+
+
+
+
+🗓️ WEEK 1: Python Basics (Foundation)
+
+🎯 Goal: Understand basic Python so you don’t feel lost
+
+Learn:
+
+What is Python?
+
+Variables
+
+If–else
+
+Functions
+
+Daily Time:
+
+⏱️ 30–45 min
+
+YouTube (Watch in Order):
+
+Python for Beginners (Very Easy)
+
+https://www.youtube.com/watch?v=kqtD5dpn9C8
+
+(Watch till 1:00 hour — no need full video)
+
+If-Else Explained Simply
+
+https://www.youtube.com/watch?v=Zp5MuPOtsSY
+
+🗓️ WEEK 2: Streamlit Basics (Your Website!)
+
+🎯 Goal: Create your FIRST website using Python
+
+Learn:
+
+What is Streamlit?
+
+Text input
+
+Buttons
+
+Image upload
+
+YouTube:
+
+Streamlit in 15 Minutes
+
+https://www.youtube.com/watch?v=JwSS70SZdyM
+
+Streamlit File Upload (Images)
+
+https://www.youtube.com/watch?v=VqgUkExPvLY
+
+Outcome:
+
+✅ A website where users can:
+
+Enter name
+
+Upload a food image
+
+See it displayed
+
+🗓️ WEEK 3: AI Image → Food Detection
+
+🎯 Goal: Use AI to detect food from images
+
+Learn:
+
+What is an API?
+
+How AI models are reused
+
+Hugging Face basics
+
+YouTube:
+
+What is an API? (Simple Explanation)
+
+https://www.youtube.com/watch?v=GZvSYJDk-us
+
+Hugging Face Explained for Beginners
+
+https://www.youtube.com/watch?v=QEaBAZQCtwE
+
+Image Classification with Pre-Trained Model
+
+https://www.youtube.com/watch?v=GIsg-ZUy0MY
+
+Outcome:
+
+✅ Upload image → AI returns food name
+
+🗓️ WEEK 4: Nutrition Data (USDA API)
+
+🎯 Goal: Convert food → protein, carbs, fats
+
+Learn:
+
+APIs that return nutrition info
+
+Reading JSON data
+
+Display tables
+
+YouTube:
+
+USDA FoodData Central API Intro
+
+https://www.youtube.com/watch?v=2Z7xHk1m0Xc
+
+Understanding JSON for Beginners
+
+https://www.youtube.com/watch?v=iiADhChRriM
+
+Tables in Streamlit
+
+https://www.youtube.com/watch?v=Z9zXxqk1J5k
+
+Outcome:
+
+✅ Show nutrition breakdown of detected food
+
+🗓️ WEEK 5: Diet Balance Logic (Your AI Brain 🧠)
+
+🎯 Goal: Decide if a meal is balanced
+
+Learn:
+
+Rule-based AI
+
+Percentages
+
+Health logic (simplified)
+
+YouTube:
+
+Rule-Based AI Explained Simply
+
+https://www.youtube.com/watch?v=Y5Vj5O7XkZw
+
+Calories & Macros Explained for Kids
+
+https://www.youtube.com/watch?v=Uj59o4W3lrc
+
+Progress Bars in Streamlit
+
+https://www.youtube.com/watch?v=Rl5g7YH1yqM
+
+Outcome:
+
+✅ App says:
+
+“Protein Low”
+
+“Carbs High”
+
+Shows progress bars
+
+🗓️ WEEK 6: Suggestions + Favorites ⭐
+
+🎯 Goal: Personalized AI suggestions
+
+Learn:
+
+Lists & dictionaries
+
+Saving favorites
+
+Simple personalization
+
+YouTube:
+
+Python Lists & Dictionaries
+
+https://www.youtube.com/watch?v=daefaLgNkw0
+
+Buttons & State in Streamlit
+
+https://www.youtube.com/watch?v=92jUAXBmZyU
+
+Outcome:
+
+✅ Star foods
+✅ Suggestions prefer favorite foods
+
+🗓️ WEEK 7: Dataset Creation (Very Important!)
+
+🎯 Goal: Collect AI training/testing data
+
+Learn:
+
+What is a dataset?
+
+Saving data
+
+AI ethics
+
+YouTube:
+
+What is a Dataset in AI?
+
+https://www.youtube.com/watch?v=ua-CiDNNj30
+
+Saving Data with CSV / Google Sheets
+
+https://www.youtube.com/watch?v=Hk5nI1N3QxQ
+
+AI Bias Explained Simply
+
+https://www.youtube.com/watch?v=9Gq9N9wQkZs
+
+Outcome:
+
+✅ Meals saved
+✅ Ready for AI evaluation discussion
+
+🗓️ WEEK 8: Hosting & Demo Preparation
+
+🎯 Goal: Put it online and rehearse
+
+Learn:
+
+GitHub basics
+
+Free hosting
+
+Explaining AI clearly
+
+YouTube:
+
+GitHub for Absolute Beginners
+
+https://www.youtube.com/watch?v=RGOj5yH7evk
+
+Deploy Streamlit App for FREE
+
+https://www.youtube.com/watch?v=HKoOBiAaHGg
+
+How to Explain an AI Project
+
+https://www.youtube.com/watch?v=RzkD_rTEBYs
+
+Outcome:
+
+🌐 Public website link
+🎤 Confident demo
+
+🎯 WHAT MAKES YOUR PROJECT STAND OUT
+
+When judges ask:
+
+“Did you train your own model?”
+
+You say:
+
+“I reused trusted AI models and focused on data collection, evaluation, personalization, and ethics — which is how real AI products are built.”
+
+That answer is EXCELLENT.
+
+🚀 NEXT STEP (VERY IMPORTANT)
+
+Next, I recommend we do this together step-by-step:
+
+👉 Next message:
+Say “Start Week 1 – setup Python on Windows”
+
+I’ll give you:
+
+Exact download links
+
+Exact buttons to click
+
+Zero confusion
+
+You’re doing something impressive — and you can finish this 💪
+
+
