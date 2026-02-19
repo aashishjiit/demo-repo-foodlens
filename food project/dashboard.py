@@ -1,6 +1,7 @@
 import streamlit as st
 import importlib.util
 import os
+from st_compat import rerun
 
 # Hide Streamlit's default pages navigation so we can show a custom, minimal sidebar
 st.markdown(
@@ -80,6 +81,7 @@ else:
 			if k in st.session_state:
 				del st.session_state[k]
 		st.success("Logged out")
+		rerun()
 
 # If a page is selected, run its script on every rerun so forms keep state
 selected = st.session_state.get('page')
