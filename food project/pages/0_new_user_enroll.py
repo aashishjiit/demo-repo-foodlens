@@ -28,7 +28,7 @@ def render():
             color: #ffffff !important;
         }
         /* Main content buttons */
-        .stApp .stButton>button { background-color: #d6f0ff !important; color: #ffffff !important; border: none !important; }
+        .stApp .stButton>button { background-color: #d6f0ff !important; color: #000000 !important; border: none !important; }
         .stApp .stButton>button:hover { background-color: #7fbce8 !important; }
         /* Stronger selector to ensure buttons match theme */
         .stApp .stButton>button { border-color: #4ba3e0 !important; }

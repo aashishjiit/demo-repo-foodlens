@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import json
 import hashlib
+from st_compat import rerun
 
 
 def render():
@@ -92,11 +93,11 @@ def render():
                 except Exception as e:
                     st.warning(f"Could not save credentials: {e}")
 
-            # Set target page and stop; dashboard will run the home page on rerun
+            # Set target page and rerun so dashboard immediately shows the home page
             st.session_state['page'] = '2_home'
             # show darker blue notification instead of green success
             st.markdown(f"<div style='background:#4ba3e0;color:#ffffff;padding:10px;border-radius:6px'>Logged in as {username}</div>", unsafe_allow_html=True)
-            st.stop()
+            rerun()
         else:
             st.error("Invalid credentials. Please enroll first or check username/password.")
 
@@ -105,6 +106,7 @@ def render():
         if st.button("Logout", key="login_logout"):
             st.session_state['authenticated'] = False
             st.success("Logged out")
+            rerun()
 
 
 if __name__ == "__main__":

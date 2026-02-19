@@ -49,7 +49,7 @@ def render():
         /* Main content buttons (e.g. "Select as favorite") */
         .stApp .stButton>button {
             background-color: #d6f0ff !important;
-            color: #ffffff !important;
+            color: #000000 !important;
             border: none !important;
             width: 171px !important;
             max-width: 171px !important;

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Streamlit and IDE
+.vscode/
+.idea/
+
+# Data and large files
+images_data/
+*.pt
+*.pth
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore secrets
+.env
+credentials.json

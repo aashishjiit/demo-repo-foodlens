@@ -25,7 +25,7 @@ def render():
             background-color: rgba(255,255,255,0.06) !important;
             color: #ffffff !important;
         }
-        .stApp .stButton>button { background-color: #3b84c2 !important; color: #ffffff !important; border: none !important; }
+        .stApp .stButton>button { background-color: #3b84c2 !important; color: #000000 !important; border: none !important; }
         .stApp .stButton>button:hover { background-color: #7fbce8 !important; }
         </style>
         """,
